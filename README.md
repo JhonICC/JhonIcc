@@ -2,7 +2,12 @@
   <a href="https://github.com/JhonICC/JhonIcc"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+JhonICC;"></a>
 </p>
 
-## Hi there 👋
+## About me 👋:
+
+I’m a junior developer with a background in Web Application Development (DAW). I enjoy building efficient, well-structured applications and continuously expanding my skills in web technologies. Passionate about turning ideas into clean, functional code.
+
+
+
 
 <!--
 **JhonICC/JhonIcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
