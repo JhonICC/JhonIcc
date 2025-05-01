@@ -27,3 +27,16 @@ I’m a junior developer with a background in **Web Application Development (DAW
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 
+## 🧠 IDEs & Editors :
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
+![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)
+![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-151515?style=flat&logo=codesandbox&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+
+
