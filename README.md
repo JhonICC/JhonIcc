@@ -10,7 +10,6 @@ I’m a junior developer with a background in **Web Application Development (DAW
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Currently, I use Python for most of my projects, especially in automation, scripting, and backend development.
 
 ## 🧑‍💻 Languages:
 
@@ -36,12 +35,13 @@ Currently, I use Python for most of my projects, especially in automation, scrip
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 🖥️ Operating Systems :
+## 🎨 Design & Architecture Tools
 
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
+![Draw.io](https://img.shields.io/badge/-Draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![PlantUML](https://img.shields.io/badge/-PlantUML-0E1E25?style=flat&logo=plantuml&logoColor=white)
 
 ## 🧠 IDEs & Editors :
 
@@ -55,4 +55,8 @@ Currently, I use Python for most of my projects, especially in automation, scrip
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
+## 🖥️ Operating Systems :
 
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
